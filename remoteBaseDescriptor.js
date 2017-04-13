@@ -5,10 +5,10 @@ module.exports = {
         moduleFiles : [
 		       ],
         requiredModules : [
-{
-    modulePath : "testModule",
-    moduleDescriptor : "testModuleDescriptor.js"
-}
+	{
+    		modulePath : "testModule",
+    		moduleDescriptor : "testModuleDescriptor.js"
+	}
         ]
     }
 }
