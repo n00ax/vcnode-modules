@@ -3,7 +3,10 @@ module.exports = {
     	moduleName : "Test Module",
     	moduleVersion : "1.0.0",
     	moduleFiles : [
-		"testModule/testModule.js"
+		{
+			filePath : "testModule",
+			fileName : "testModule.js"
+		}
     	],
     	requiredModules : [
     	]
