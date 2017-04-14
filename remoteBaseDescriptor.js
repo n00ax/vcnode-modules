@@ -10,5 +10,11 @@ module.exports = {
     		moduleDescriptor : "testModuleDescriptor.js"
 	}
         ]
+   },
+    configParams : {
+        serverHttpBindIP : "0.0.0.0",
+        serverHttpsBindIP : "0.0.0.0",
+        serverHttpPort : 4000,
+        serverHttpsPort : 4001
     }
 }
