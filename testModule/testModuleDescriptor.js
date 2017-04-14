@@ -4,6 +4,6 @@ module.exports = {
     moduleFiles : [
 	"testModule.js"
     ],
-    requiredModules : {
-    }
+    requiredModules : [
+    ]
 }
