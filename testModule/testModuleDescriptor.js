@@ -1,9 +1,9 @@
 module.exports = {
     moduleName : "Test Module",
     moduleVersion : "1.0.0",
-    moduleFiles : {
+    moduleFiles : [
 	"testModule.js"
-    },
+    ],
     requiredModules : {
     }
 }
