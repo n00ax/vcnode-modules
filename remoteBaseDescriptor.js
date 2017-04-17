@@ -15,6 +15,7 @@ module.exports = {
         serverHttpBindIP : "0.0.0.0",
         serverHttpsBindIP : "0.0.0.0",
         serverHttpPort : 4000,
-        serverHttpsPort : 4001
+        serverHttpsPort : 4001,
+	mongoClientURL : "mongodb://localhost:27017/vcnode-local"
     }
 }
